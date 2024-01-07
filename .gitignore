@@ -30,3 +30,6 @@ media/
 
 # Ignore local development settings
 local_settings.py
+
+# docker volume
+mysql-container/data/
